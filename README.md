@@ -1,6 +1,3 @@
-Certainly! Here's the README file with additional emojis added:
-
-```
 # 🌦️ Weather Application with OpenWeather Map API and OpenAI API Integration
 
 Welcome to our Weather Application! This application provides you with up-to-date weather information and also offers intelligent insights powered by OpenAI's natural language processing capabilities.
@@ -60,10 +57,3 @@ Contributions are welcome! Please feel free to open a pull request or submit an 
 ## License
 
 [MIT License](LICENSE)
-
-## Contact
-
-For any inquiries or support, please contact [your_email@example.com](mailto:your_email@example.com). 📧
-```
-
-Adding emojis can make the README file more visually appealing and engaging for users.
