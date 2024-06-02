@@ -2,6 +2,10 @@
 
 Welcome to our Weather Application! This application provides you with up-to-date weather information and also offers intelligent insights powered by OpenAI's natural language processing capabilities.
 
+![alt text](https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_195725.png)
+![alt text](https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_195804.png)
+![alt text](https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_204148.png)
+
 ## Features
 
 - **Current Weather**: Get real-time weather updates for any location worldwide.
