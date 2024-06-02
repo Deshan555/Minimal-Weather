@@ -2,9 +2,11 @@
 
 Welcome to our Weather Application! This application provides you with up-to-date weather information and also offers intelligent insights powered by OpenAI's natural language processing capabilities.
 
-![alt text](https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_195725.png)
-![alt text](https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_195804.png)
-![alt text](https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_204148.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_195725.png?raw=true" alt="Screenshot 1" style="width: 30%; margin-right: 10px;">
+    <img src="https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_195804.png?raw=true" alt="Screenshot 2" style="width: 30%; margin-right: 10px;">
+    <img src="https://github.com/Deshan555/Minimal-Weather/blob/master/Screenshot_20231224_204148.png?raw=true" alt="Screenshot 3" style="width: 30%;">
+</div>
 
 ## Features
 
